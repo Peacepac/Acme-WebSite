@@ -18,6 +18,11 @@ shortcut for the whole thing
   overflow:hidden;
 }
 
+#showcase .wrap{
+  width: 1000px;
+  font-size:18.5px;
+}
+
 ul{
   margin:0;
   padding:0;
